@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaMillionAuto", "MegaMillionAuto\MegaMillionAuto.csproj", "{9146D6A2-1027-49ED-A9D0-D62ADD311C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaMillionAutoTest", "MegaMillionAutoTest\MegaMillionAutoTest.csproj", "{055077C0-ACE9-4E41-B14A-A0B8966AB07F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9146D6A2-1027-49ED-A9D0-D62ADD311C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9146D6A2-1027-49ED-A9D0-D62ADD311C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9146D6A2-1027-49ED-A9D0-D62ADD311C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055077C0-ACE9-4E41-B14A-A0B8966AB07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055077C0-ACE9-4E41-B14A-A0B8966AB07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055077C0-ACE9-4E41-B14A-A0B8966AB07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055077C0-ACE9-4E41-B14A-A0B8966AB07F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
